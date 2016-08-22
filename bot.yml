@@ -7,3 +7,4 @@ config:
     info: This is utterly necessary
     type: secret
     default: NOT A VALID TOKEN
+    global: true
